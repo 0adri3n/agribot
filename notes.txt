@@ -1,0 +1,16 @@
+
+Roll pr gagner des agriculteurs, avec des % de drops
+Basic : 70% | 1 b/h
+Rare : 30% | 1,5 b/h
+Epic : 15% | 2,5 b/h
+Legendary : 5% | 5 b/h
+1 roll = 500$
+
+prix du blé fixe sur celui de eth/100
+renta par heure (blé/h)
+
+renta = total agri * dimension
+
+dimension : 
+10 / 25   / 50  / 100  / 200  / 500 / 1000
+0  / 10k / 50k / 100k / 300k / 750k / 2M
