@@ -1,0 +1,2407 @@
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "statsinfos" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "statinfos" is not found
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command fieldinfo:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 111, in fieldinfo
+    hashfield = data[0]
+TypeError: 'NoneType' object is not subscriptable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not subscriptable
+Exception ignored when trying to write to the signal wakeup fd:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/unix_events.py", line 42, in _sighandler_noop
+    def _sighandler_noop(signum, frame):
+OSError: [Errno 9] Bad file descriptor
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fielinfo" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fiekdinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "salejuif" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "filedinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sellagri" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fielinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "selll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "field" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fielinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fizldinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinf" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "howstart" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfk" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cheat" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ad" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "negro" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldonfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinf" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fielinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldingo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rol" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "create_field" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "negre" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nigga" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nigger" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nigger" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "noir" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "allahakbar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "selll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "top" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldingo" is not found
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Exception ignored when trying to write to the signal wakeup fd:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/unix_events.py", line 42, in _sighandler_noop
+    def _sighandler_noop(signum, frame):
+OSError: [Errno 9] Bad file descriptor
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "negroinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sellnegro" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldino" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "infofield" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfo$" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ban" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "negrier" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldindo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "filedinfo" is not found
+Ignoring exception in command fieldinfo:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 111, in fieldinfo
+    hashfield = data[0]
+TypeError: 'NoneType' object is not subscriptable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not subscriptable
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "neggae" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldindo" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 325, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfi" is not found
+  File "main.py", line 280
+    diff = money - dimensiondico[res]
+                                    ^
+TabError: inconsistent use of tabs and spaces in indentation
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rules" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rule" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "suck" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addmoney" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "infofield" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "niquetamereMaxime" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfoo" is not found
+Ignoring exception in command fieldinfo:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 451, in _actual_conversion
+    ret = await instance.convert(ctx, argument)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/converter.py", line 254, in convert
+    raise UserNotFound(argument)
+discord.ext.commands.errors.UserNotFound: User "Monsieur" not found.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfoo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmot" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 329, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "info" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hack+ban<@681445868490063892>" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 329, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rol" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_rollv" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 329, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 255, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfi" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll" is not found
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fiedlinfo" is not found
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 262, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 336, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "he:m" is not found
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 542, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: quantity is a required argument that is missing.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multi" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 262, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "infofield" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "infofield" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldingo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "l" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "L" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "field" is not found
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "creatfield" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 542, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: quantity is a required argument that is missing.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "filedinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "upgradefield" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfi" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Exception ignored when trying to write to the signal wakeup fd:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/unix_events.py", line 42, in _sighandler_noop
+    def _sighandler_noop(signum, frame):
+OSError: [Errno 9] Bad file descriptor
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "eth" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "howtostart" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "eth" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rol" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll920" is not found
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 542, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: quantity is a required argument that is missing.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multi" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multi" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "field" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "upgraded" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rol" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "roll_roll" is not found
+Ignoring exception in command sell:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 396, in sell
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ehtvalue" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfop" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "toop" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll2702" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfoà" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll2" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldfon" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 322, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "multiroll6" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "field" is not found
+Exception ignored when trying to write to the signal wakeup fd:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/unix_events.py", line 42, in _sighandler_noop
+    def _sighandler_noop(signum, frame):
+OSError: [Errno 9] Bad file descriptor
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 226, in multiroll
+    if int(money) < 500*int(quantity) :
+ValueError: invalid literal for int() with base 10: 'max'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'max'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 226, in multiroll
+    if int(money) < 500*int(quantity) :
+ValueError: invalid literal for int() with base 10: 'max'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'max'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 226, in multiroll
+    m = False
+ValueError: invalid literal for int() with base 10: 'max'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'max'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 226, in multiroll
+    m = False
+ValueError: invalid literal for int() with base 10: 'max'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'max'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 226, in multiroll
+    m = False
+ValueError: invalid literal for int() with base 10: 'max'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'max'
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < quantity and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < quantity and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < quantity and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < quantity and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < quantity and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < quantity and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < int(quantity) and m:
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: '<' not supported between instances of 'int' and 'str'
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < int(quantity) and m:
+ValueError: invalid literal for int() with base 10: 'mx'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'mx'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ethprice" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 542, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: quantity is a required argument that is missing.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "selk" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "upgraade" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "topserv" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfi" is not found
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < int(quantity) and m:
+ValueError: invalid literal for int() with base 10: 'ma'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'ma'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "filedinfo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "money" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SELL" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "yop" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command fieldinfo:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 113, in fieldinfo
+    hashfield = data[0]
+TypeError: 'NoneType' object is not subscriptable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not subscriptable
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfob<@327876477586636811>" is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 341, in upgrade
+    if money < dimensiondico[res] :
+KeyError: None
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: KeyError: None
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldinfo." is not found
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 279, in multiroll
+    await ctx.send("So, you gain " + str(basic) + " basics, " + str(rare) + " rares, " + str(epic) + " epics and finally " + str(legend) + " legendaries!")
+  File "/usr/local/lib/python3.8/dist-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 504 Gateway Time-out (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>discord.com | 504: Gateway time-out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:504,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">504</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 70186f44880775de &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-04-25 16:25:36 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Gateway time-out</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">London</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">discord.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a gateway time-out error.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">70186f44880775de</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 178.62.101.142</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 504 Gateway Time-out (error code: 0): <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>discord.com | 504: Gateway time-out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+<script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:504,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">504</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 70186f44880775de &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-04-25 16:25:36 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Gateway time-out</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">London</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">discord.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a gateway time-out error.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">70186f44880775de</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 178.62.101.142</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "eth" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "eth" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "eth" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ethprice" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 327, in upgrade
+    reaction, user = await bot.wait_for('reaction_add', timeout=60.0, check=check)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "eth" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < int(quantity) and m:
+ValueError: invalid literal for int() with base 10: 'm'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'm'
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 230, in multiroll
+    if int(money) < 500*int(quantity) and not m or int(money) < int(quantity) and m:
+ValueError: invalid literal for int() with base 10: 'maxx'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: invalid literal for int() with base 10: 'maxx'
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "upgradz" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fieldibfo" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command upgrade:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 341, in upgrade
+    if money < dimensiondico[res] :
+KeyError: None
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: KeyError: None
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+>Connecté en tant que: AgriBot
+>ID: 966013345163509781
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command multiroll:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "main.py", line 279, in multiroll
+    await ctx.send("So, you gain " + str(basic) + " basics, " + str(rare) + " rares, " + str(epic) + " epics and finally " + str(legend) + " legendaries!")
+  File "/usr/local/lib/python3.8/dist-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 544, in _request
+    await resp.start(conn)
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client_reqrep.py", line 905, in start
+    self._continue = None
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 16, in on_ready
+    change_status.start()
+  File "/usr/local/lib/python3.8/dist-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.

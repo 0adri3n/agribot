@@ -17,6 +17,12 @@ def getwheatprice():
     return price
 
 
+def getethprice():
+    url = "https://api.coinbase.com/v2/prices/ETH-USD/spot"
+    r = requests.get(url).json()
+    price = float(r["data"]["amount"])
+    return price
+
 def updaterenta(hashfield):
 
     conn = sqlite3.connect('data/field_db.db')
